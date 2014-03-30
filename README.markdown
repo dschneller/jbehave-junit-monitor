@@ -106,7 +106,7 @@ Once you are all set, you use the regular `Run As -> JUnit Test`
 command in Eclipse. The JUnit view should appear and display something
 like this:
 
-![Screenshot](/dschneller/jbehave-junit-monitor/raw/master/doc/img/JBehaveJUnitScreenshot.png)
+![Screenshot](/dschneller/jbehave-junit-monitor/doc/img/JBehaveJUnitScreenshot.png)
 
 
 Credits
